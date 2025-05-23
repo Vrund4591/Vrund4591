@@ -1,6 +1,6 @@
 # Hi, I'm Vrund Patel 👋👨🏻‍💻
 
-![Vrund Patel Banner]()
+![Vrund Patel Banner](Banner1.png)
 
 > **VRUND PATEL**  
 > Full Stack Web Developer | Photographer | Tech Enthusiast  
