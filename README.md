@@ -11,9 +11,12 @@ Some of the technologies I enjoy working with include **JavaScript**, **React.js
 
 ## 🏆 Highlights
 
-- **Smart India Hackathon (SIH) 2024 participant**
+- **Odoo Hackathon 2025 - Finalist (Asia’s Largest Hiring Hackathon)**
+- **AutonomousHacks (Google Developers) - Finalist**
 - **Cinematographer & Photographer, Xenesis 2024 & 2025**
 - **Microsoft Hour of Code 2022**
+- **Google Gen AI Exchange Program - Certified**
+- **Odoo Hackathons - Multiple-time Finalist**
 - **Azure Developer Community Full Stack Bootcamp**
 - **NPTEL certified (Java Programming)**
 
