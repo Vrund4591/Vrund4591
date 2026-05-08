@@ -8,7 +8,7 @@ I'm a **full-stack developer** and **photographer** who loves turning ideas into
 
 ## 🛠️ Here's what I wield to craft cool projects
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMncxNHNnbWRjeGc1dm9zZzJ5MXQ2Zmdoc2FlanoydGxwYmZvYjhsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
+<img align="right" height="150" src="https://media1.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" />
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
