@@ -44,7 +44,6 @@ I'm a **full-stack developer** and **photographer** who loves turning ideas into
 
 ## 🏆 Highlights
 
-- 🥇 **Full Stack Bootcamp — Azure Developer Community — Winner**
 - 🏁 **Odoo Hackathon 2025 — Finalist** *(Asia's Largest Hiring Hackathon)*
 - 🏁 **AutonomousHacks (Google Developers) — Finalist**
 - 🎬 **Cinematographer & Photographer — Xenesis 2024 & 2025**
