@@ -48,7 +48,7 @@ I'm a **full-stack developer** and **photographer** who loves turning ideas into
 - 🏁 **AutonomousHacks (Google Developers) — Finalist**
 - 🎬 **Cinematographer & Photographer — Xenesis 2024 & 2025**
 - 🤖 **Google Gen AI Exchange Program — Certified**
-- 🐍 **NPTEL Certified — Java Programming**
+- 🏅 **NPTEL Certified — Java Programming**
 - 💻 **Microsoft Hour of Code 2022**
 - 🔁 **Odoo Hackathons — Multiple-time Finalist**
 
